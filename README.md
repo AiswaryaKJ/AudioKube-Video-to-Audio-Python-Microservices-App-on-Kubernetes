@@ -32,9 +32,6 @@ This project is a fully containerized microservices application that allows user
 
 ---
 
-## 📐 System Architecture
-
-![Architecture Diagram](./28c036dc-5dda-486c-b4eb-867281d4d274.png)
 
 ---
 
